@@ -1,4 +1,4 @@
-astroML_docker
+astroMLdock
 =============
 
 A Docker image with everything you need to run the [astroML](http://www.astroml.org/) software.
