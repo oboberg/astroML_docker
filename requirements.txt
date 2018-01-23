@@ -1,0 +1,6 @@
+astropy
+scikit-learn
+pyMC
+healpy
+astroML
+astroML_addons
