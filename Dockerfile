@@ -1,6 +1,6 @@
 FROM jupyter/datascience-notebook
 LABEL maintainer "boberg37@gmail.com"
-ENV REFRESHED_AT 2018-23-01
+ENV REFRESHED_AT 2018-01-23
 
 USER root
 
