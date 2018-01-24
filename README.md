@@ -1,7 +1,7 @@
 astroMLdock
 =============
 
-[![Docker Automated buil](https://img.shields.io/docker/automated/oboberg/astromldock.svg)](https://hub.docker.com/r/oboberg/astromldock/)
+[![Docker Automated buil](https://img.shields.io/docker/automated/oboberg/astroml.svg)](https://hub.docker.com/r/oboberg/astroml/)
 
 A Docker image with everything you need to run the [astroML](http://www.astroml.org/) software.
 
@@ -29,5 +29,5 @@ Docker Hub and run the container with the following command:
 $ docker run -it --rm \
        -p 8888:8888 \
        -v $PWD:/home/jovyan/work \
-       oboberg/astromldock
+       oboberg/astroml
 ```
