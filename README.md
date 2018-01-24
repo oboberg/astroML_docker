@@ -3,7 +3,7 @@ astroMLdock
 
 [![Docker Automated build](https://img.shields.io/docker/automated/oboberg/astroml.svg)](https://hub.docker.com/r/oboberg/astroml/)
 
-A Docker image with everything you need to run the [astroML](http://www.astroml.org/) software.
+A Docker image with everything you need to run the [astroML](http://www.astroml.org/) python package.
 
 To build the Docker image yourself do the following after cloning this repository.
 
