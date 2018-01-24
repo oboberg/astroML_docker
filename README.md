@@ -1,7 +1,7 @@
 astroMLdock
 =============
 
-[![Docker Automated buil](https://img.shields.io/docker/automated/oboberg/astroml.svg)](https://hub.docker.com/r/oboberg/astroml/)
+[![Docker Automated build](https://img.shields.io/docker/automated/oboberg/astroml.svg)](https://hub.docker.com/r/oboberg/astroml/)
 
 A Docker image with everything you need to run the [astroML](http://www.astroml.org/) software.
 
