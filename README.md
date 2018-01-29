@@ -9,7 +9,10 @@ A Docker image with everything you need to run the [astroML](http://www.astroml.
 # Table of Contents
 1. [Introduction](#introduction)
 2. [What's in the Docker image](#whats-in-the-docker-image)
-3. [Making the textbook figures](##making-the-textbook-figures)
+3. [Making the textbook figures](#making-the-textbook-figures)
+4. [Quick start with a jupyter notebook](#quick-start-with-a-jupyter-notebook)
+5. [Quick start with jupyter lab](#quick-start-with-jupyter-lab)
+6. [Building the image yourself](#building-the-image-yourself)
 
 # Introduction
 
@@ -98,6 +101,22 @@ local machine (in this example `astroML_figures` ) inside the container as
 
 
 
+
+## Quick start with a jupyter notebook
+~~~
+docker run -it --rm \
+       -p 8888:8888 \
+       -v $PWD:/home/jovyan/work \
+       oboberg/astroml
+~~~
+
+## Quick start with jupyter lab
+~~~
+docker run -it --rm \
+       -p 8888:8888 \
+       -v $PWD:/home/jovyan/work \
+       oboberg/astroml start.sh jupyter lab
+~~~
 
 
 
