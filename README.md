@@ -6,6 +6,11 @@ astroMLdock
 A Docker image with everything you need to run the [astroML](http://www.astroml.org/) python module. astroML was written by [Vanderplas et al, proc. of CIDU, pp. 47-54,
 2012](http://ieeexplore.ieee.org/document/6382200/?tp=&arnumber=6382200).
 
+# Table of Contents
+1. [Introduction](#introduction)
+2. [What's in the Docker image](#whats-in-the-docker-image)
+3. [Making the textbook figures](##making-the-textbook-figures)
+
 # Introduction
 
 astroML is python module with many of the tools
