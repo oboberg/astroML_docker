@@ -119,8 +119,6 @@ docker run -it --rm \
 ~~~
 
 
-
-
 ## Building the image yourself
 
 To build the Docker image yourself do the following after cloning this repository.
